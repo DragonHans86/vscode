@@ -39,7 +39,7 @@
     "istanbul": "^0.3.17",
     "jsdom-no-contextify": "^3.1.0",
     "lazy.js": "^0.4.2",
-    "minimatch": "^2.0.10",
+    "minimatch": "^3.0.4",
     "mocha": "^2.2.5",
     "object-assign": "^4.0.1",
     "pump": "^1.0.1",
